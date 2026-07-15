@@ -1,48 +1,50 @@
-## Olá! Sou Demitre, analista de dados e sistemas 👋
-
-Tenho uma [carreira](#trajetória) sólida de mais de 20 anos em TI, já tendo atuado com várias ferramentas de TI, principalmente em processos industriais.
-
+Oi, eu sou o Demitre 👋
 ---
+#### Líder de tecnologia ,com mais de 20 anos de experiência na área. Moro na regiãode Blumenau.
 
-#### Atualmente atuando com
-* Python
-* Airflow
-* PostgreSQL | Redshift
-* OpenMetadata
-* Governança de dados
+Comecei programando, depois virei analista de sistemas e de negócios e líder de pessoas em tecnologia. Fui tech lead e squad lead para ERP e BI, respondendo pela arquitetura de sistemas SAP e plataforma de business intelligence da empresa, liderando os projetos e pessoas de tecnologia para entregar o que as operações da empresa precisavam:  compras, produção, vendas, logística e financeiro. Hoje lidero um equipe de engenharia de dados, focada na entrega continua de projetos para clientes da maior empresa de gestão de pessoas do Brasil.
 
-#### Domino
-* Indicadores de negócio
-* Modelagem de dados
-* ETL com Pentaho DI
-* ETL para SAP S/4
-* SQL (+15 anos com Oracle, +10 anos com SQL Server)
-* Integração entre sistemas (APIs)
-* SAP MM e PP
+O que mudou nesses 20 anos não foi a linguagem, foi entender como pessoas e processos se conectam para que possamos mirar no resultado da empresa que usa a tecnologia.
 
-#### Conheço, mas atuei pouco com
-* Salesforce (focado na API)
-* MySQL
+## Minha visão
 
-#### Já tive contato com
-* Linux Shell e PowerShell
-* PHP
-* C#
+### Tecnologia é ativo, não centro de custo e nem uma finalidade.
+A diferença não é semântica: custo você diminui ou corta. Ativo estratégico você potencializa - e isto indica que a tecnologia da moda pode ser a mudança de chave, ou um tiro no pé.
+Ferramenta escolhida pelo simples desejo é dívida com data marcada.
 
-#### Estudando
-* Apache Iceberg
-* Apache AirByte
+### Processo de tecnologia se desenha a partir do negócio.
+Um pipeline que roda às 6h é decisão técnica. Um pipeline que roda antes da reunião de produção das 7h é decisão de negócio. É a mesma linha de código e são dois projetos diferentes — só que o segundo alguém usa.
 
----
-### Trajetória
+### A escolha da ferramenta não é a primeira decisão
+Nem toda ferramenta resolve — essa parte importa e eu levo a sério. Mas capacidade técnica é uma das três pernas, não a única: impacto, manutenibilidade e custo pesam igual.
 
-1️⃣ Comecei minha carreira em 2004, programando em `Delphi 5` e `Firebird`. Nesta mesma empresa, posteriormente, fui para o time que atuava com um ERP com `Oracle` e, posteriormente, acabei conhecendo o `QlikView` , já perto de 2009.
 
-2️⃣ Em 2011, fui trabalhar em uma empresa têxtil, atuando como analista e desenvolvedor de sistemas interno, atuando com `Uniface`, `PHP` , `Oracle` e `SQL Server`.
+## Trajetória
 
-3️⃣ Em 2015 parti para outra oportunidade, também na indústria, onde comecei com `Genexus` e `Oracle` e, posteriormente, mudei para analista de negócios `SAP MM` e `MM`. Precisei programar também (`ABAP`), mas já não era mais meu foco de carreira ficar com a mão no código como principal atividade.
+### 2004–2010 · De uma tela para um sistema
+Comecei em Delphi 5 e Firebird, depois fui para o time de ERP com Oracle. Em 2009 encontrei o QlikView e percebi o que definiria o resto da carreira: estreitar a distância entre tecnologia e negócio é uma das grandes chaves de cada projeto.
 
-Nesta oportunidade, atuei como *tech lead* para o ERP `SAP` e  *business intelligence* com `PowerBI`.
-Neste tempo com o `PowerBI`, implantei o ETL o `SAP S/4 Hana` com `Pentaho`, para geração dos dados de compras, vendas, produção, logística e financeiro.
+### 2011–2014 · De um sistema para uma área
+Indústria têxtil, analista e desenvolvedor interno. Atuei com sistemas comercial, fiscal e compras.
 
-4️⃣ Em 2025, optei por focar minha carreira em dados, e parti para uma oportunidade na Senior Sistemas, em Blumenau.
+### 2015–2025 · De analista a Tech lead
+Entrei como desenvolvedor e migrei para analista de negócios de ERP, em suprimentos e produção no SAP. A programação foi ficando de lado, quando a liderança de pessoas em TI tomou seu espaço.
+Atuei de forma relevante juntando as partes para a migração do ERP legado para o SAP S/4 Hana, focando na migração de dados.
+Posteriormente, tomei as decisões necessárias para transformar a plataforma de dados com PowerBI, fazendo com que tecnologia e pessoas gerassem os indicadores necessários.
+
+### 2025+ · De indústria para plataforma
+Lidero hoje a equipe que conduz a engenharia de dados para clientes da Senior sistemas, com o crescimento e sustentação de toda a operação: produtos de dados, catálogo, e sustentação.
+
+## Conhecimentos técnicos que me apoiam nas escolhas
+
+Business Intelligence: Python · Airflow · PostgreSQL · Redshift · Governança · OpenMetadata · Pentaho · PowerBI.
+Integração e ERP: Pentaho · APIs · SAP S/4 HANA · SAP MM e PP
+Fundação · Oracle · SQL Server (10+ anos)
+
+
+## Onde me encontrar
+
+Escrevo sobre arquitetura de dados, integração ERP↔BI e o lado humano da governança.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demitredacol/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@demitredacol)
